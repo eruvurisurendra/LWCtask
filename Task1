@@ -1,0 +1,88 @@
+1.Create an hyperlink page opens on new tab html code:
+
+
+<html>
+
+<head>
+    <title>My first web page</title>
+</head>
+
+<body>
+
+    <h1>Google link</h1>
+    <p>Google links are defined with the a tag as mentioned below:</p>
+
+    <a href="https://www.google.com/" target="_blank">This is a Google link click to access google</a>
+
+</body>
+
+</html>
+
+
+2.Create a html page with formatting and Comment it html code:
+
+
+<html>
+  
+<body>
+    <h2>Explanation of formatting element</h2>
+      
+    <!--Text in Strong-->
+    <strong>Hi Hello Everyone. GOOD MORNING!!</strong>
+    <br>
+      
+    <!--Text in small-->
+    <small>Hi Hello Everyone. GOOD MORNING!!</small>
+    <br>
+      
+    <!--Text in Highlight-->
+    <mark>Hi Hello Everyone. GOOD MORNING!!</mark>
+    <br>
+
+    <!--Text in Bold-->
+    <b>Hi Hello Everyone. GOOD MORNING!!</b>
+    <br>
+
+    <!--Text in  Italic-->
+    <i>Hi Hello Everyone. GOOD MORNING!!</i>
+    <br>
+
+     <!--Text in  Emphasized-->
+     <em>Hi Hello Everyone. GOOD MORNING!!</em>
+     <br>
+
+     <!--Text in Delete-->
+     <del>Hi Hello Everyone. GOOD MORNING!!</del>
+     <br>
+
+     <!--Text in Insert-->
+     <ins>Hi Hello All</ins>
+     <br>
+
+     <!--Text in Subscript-->
+     <sub>Day1</sub>
+     <br>
+
+      <!--Text in Superscript-->
+      <sup>Hi Hello Everyone. Morning</sup>
+      <br>
+
+</body>
+  
+</html>
+Global attributes:
+The <abbr> tag supports the global attributes.
+
+Event Attributes:
+The <abbr> tag supports the event attributes.
+3.Abbr Tag html code:
+<html>  
+  <head>  
+    <title>Abbreviation Tag</title>  
+   </head>  
+ <body>  
+    <h2>Abbreviation tag example</h2>  
+    
+    <abbr title="World Health Organization">WHO</abbr> 
+    </body>  
+</html>
